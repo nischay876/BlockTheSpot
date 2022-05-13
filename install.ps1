@@ -106,16 +106,11 @@ function Test-SpotifyVersion
 }
 
 Write-Host @'
-*****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
-*****************
 '@
 
 Write-Host @'
 *****************
-Authors: @Nuzair46, @KUTlime
+Authors: @OGGY#9889
 *****************
 '@
 
@@ -358,9 +353,4 @@ Start-Process -WorkingDirectory $spotifyDirectory -FilePath $spotifyExecutable
 Write-Host 'Done.'
 
 Write-Host @'
-*****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
-*****************
 '@
